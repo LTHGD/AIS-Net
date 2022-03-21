@@ -4,6 +4,8 @@
 Created on Mon Mar 21 20:14:11 2022
 
 @author: taiheng
+
+This is DACG module
 """
 
 import torch
